@@ -1,2 +1,0 @@
-# jackieshao
-projects of r
